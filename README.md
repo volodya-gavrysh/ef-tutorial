@@ -32,3 +32,5 @@ https://docs.microsoft.com/en-us/iis/publish/using-web-deploy/web-deploy-powersh
 
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd569058(v=ws.10)
 https://community.atlassian.com/t5/Answers-Developer-Questions/How-to-deploy-a-NET-application-on-IIS/qaq-p/498835
+
+https://johanleino.wordpress.com/2013/04/02/using-teamcity-for-asp-net-development-part-3/
